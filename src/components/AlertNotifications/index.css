@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.alert-notification {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.succes-icon {
+  color: #2dca73;
+  height: 40px;
+  width: 40px;
+}
+
+.note-hed-success {
+  color: #2dca73;
+}
+
+.note-desp {
+  color: #64748b;
+  font-weight: 600;
+}
+
+.error-icon {
+  color: #ff0b37;
+  height: 40px;
+  width: 40px;
+}
+
+.note-hed-error {
+  color: #ff0b37;
+}
+
+.note-desp-error {
+  color: #64748b;
+  font-weight: 600;
+}
+
+.warning-icon {
+  color: #ffb800;
+  height: 40px;
+  width: 40px;
+}
+
+.note-hed-warning {
+  color: #ffb800;
+}
+
+.info-icon {
+  color: #0f81e0;
+  height: 40px;
+  width: 40px;
+}
+
+.note-hed-info {
+  color: #0f81e0;
+}
